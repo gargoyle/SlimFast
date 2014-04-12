@@ -1,0 +1,11 @@
+{% extends "layouts/global.twig" %}
+
+{% block meta_description %}Page Description{% endblock %}
+{% block meta_keywords %}Page, Keywords{% endblock %}
+{% block title %}Page Title{% endblock %}
+
+
+{% block main_content %}
+  {{ parent() }}
+  <p>From the homepage</p>
+{% endblock %}

@@ -1,0 +1,15 @@
+{
+    "name": "pmc/SlimFast",
+    "description": "A basic structure for quickly starting a Slim application.",
+    "type": "library",
+    "keywords": ["slim", "twig"],
+    "authors": [
+        {
+          "name": "Paul Court",
+          "email": "g@rgoyle.com"
+        }
+    ],
+    "require": {
+
+    }
+}

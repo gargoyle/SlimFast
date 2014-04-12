@@ -4,9 +4,8 @@ SlimFast
 A base structure for a Slim application using twig templates.
 
 This is part of a collection of items I use to get going quickly with a new project
-using the Slim framework and Foundation from Zurb.
-
-I thought I woudl share them incase others find them useful.
+using the Slim framework and Foundation from Zurb using SCSS (not the standard CSS
+  .zip download that Zurb provide).
 
 Getting Started
 ---------------
@@ -52,5 +51,15 @@ and run `composer install`.
 Once composer has finished, then run `bash vendor/pmc/slim-fast/init.bash`. Once this
 completes, you should have `app` and `web` sub-directories which include that starting
 point for your app.
+
+Requirements
+------------
+Your development system is going to need to be correctly configured with sass, compass,
+and composer.
+
+Oh, It'll probably only work on *nix due to the bash commands/scripts I use. But if you are
+on another platform, you can probably work out what you need to change for your system -
+there's only half a dozen commands.
+
 
 Enjoy.

@@ -49,8 +49,9 @@ to this one:-
 and run `composer install`.
 
 Once composer has finished, then run `bash vendor/pmc/slim-fast/init.bash`. Once this
-completes, you should have `app` and `web` sub-directories which include that starting
-point for your app.
+completes, you should have `app` and `web` sub-directories.
+
+That's it! The basic app is setup and ready to go.
 
 Requirements
 ------------

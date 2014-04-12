@@ -40,3 +40,5 @@ $view->set('global', array(
 $app->get('/', function () use ($app) {
     $app->render('pages/homepage.twig', array());
 });
+
+$app->run();

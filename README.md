@@ -30,7 +30,6 @@ to this one:-
       "slim/views": "0.*",
       "twig/twig": "1.*",
       "michelf/php-markdown": "1.3.*@dev",
-      "pmc/mongostorage": "dev-master",
       "pmc/simple-foundation": "dev-master",
       "pmc/slim-fast": "dev-master"
     },

@@ -9,7 +9,12 @@
           "email": "g@rgoyle.com"
         }
     ],
+    "autoload": {
+        "psr-4" : {
+            "Pmc\\SlimFast\\" : "lib/"
+        }
+    },
     "require": {
-
+        "pmc/simple-foundation": "dev-master"
     }
 }

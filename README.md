@@ -24,7 +24,7 @@ to this one:-
         }
     ],
     "require": {
-      "php": ">=5.3.0",
+      "php": ">=5.5.0",
       "monolog/monolog": "1.*",
       "slim/slim": "2.*",
       "slim/views": "0.*",

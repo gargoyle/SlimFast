@@ -4,7 +4,7 @@
  *  (c) 2014 PMC Networks Ltd
  */
 
-namespace Pmc\SlimFastExample\Controller\Example;
+namespace Pmc\SlimFastExample\Controller;
 
 /**
  * Example controller.

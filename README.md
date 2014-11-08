@@ -30,17 +30,7 @@ to this one:-
       "slim/views": "0.*",
       "twig/twig": "1.*",
       "michelf/php-markdown": "1.3.*@dev",
-      "pmc/simple-foundation": "dev-master",
-      "pmc/slim-fast": "dev-master"
-    },
-    "scripts": {
-      "post-install-cmd": [
-        "cp -R vendor/pmc/simple-foundation/web ./",
-        "mkdir web/css"
-      ],
-      "post-update-cmd": [
-        "cp -R vendor/pmc/simple-foundation/web ./"
-      ]
+      "pmc/slim-fast": "1.0.*"
     }
 }
 ~~~

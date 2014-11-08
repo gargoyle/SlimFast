@@ -46,6 +46,6 @@ $view->set('global', array(
 ));
 
 // Controllers
-new Pmc\SlimFastExample\Controller\Example\Example($app);
+new \Pmc\SlimFastExample\Controller\Example($app);
 
 $app->run();
